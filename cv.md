@@ -1,5 +1,4 @@
 # rsschool-2019Q1-cv
-![Dan Grahs photo](Myself.png)
 ## Daniil Grahantsev
 ##### Soligorsk, Minsk Region, Belarus
 ##### +375(29)873-34-03
