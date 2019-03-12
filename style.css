@@ -23,7 +23,7 @@
 .image{
     width: 270px;
     border-radius: 120px;
-    position: center;это резюме а не хекс
+    position: center;
     left: 1px;
     top: 1px;
 }
@@ -32,7 +32,7 @@ html{
     margin: 1em auto;
 }
 body{
-    background-color: #ccc;
+    background-color: #f0f0f0;
 }
 @media screen and (min-width:600px) {
     nav {
@@ -44,7 +44,14 @@ body{
     }
 }
 @media screen and (max-width:599px) {
-    nav li {
+    nav ul {
         display: inline;
     }
+}
+span{
+    font-size: 10pt;
+}
+ul{
+    text-align: left;
+    position: relative;
 }
