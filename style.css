@@ -1,0 +1,50 @@
+.name{
+    font-family: Courier;
+    font-size: 28px;
+    text-align: center;
+    font-weight: 600
+}
+.info{
+    font-family: "Courier New";
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600
+}
+.main {
+    font-family: "Courier New";
+    text-align: center;
+    font-weight: 600
+}
+.footer{
+    font-family: "Courier New";
+    text-align: center;
+    font-weight: 600
+}
+.image{
+    width: 270px;
+    border-radius: 120px;
+    position: center;это резюме а не хекс
+    left: 1px;
+    top: 1px;
+}
+html{
+    max-width: 800px;
+    margin: 1em auto;
+}
+body{
+    background-color: #ccc;
+}
+@media screen and (min-width:600px) {
+    nav {
+        float: left;
+        width: 25%;
+    }
+    section {
+        margin-left: 25%;
+    }
+}
+@media screen and (max-width:599px) {
+    nav li {
+        display: inline;
+    }
+}
